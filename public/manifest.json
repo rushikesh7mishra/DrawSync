@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "IncSync",
-  "short_name": "IncSync",
+  "name": "DrawSync",
+  "short_name": "DrawSync",
   "description": "A Real-Time Collaborative Whiteboard Web App",
   "icons": [
     {
